@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embedded C Doxygen Comments"
+  short_description: "Add Chinese Doxygen comments for embedded C code."
+  default_prompt: "Use $embedded-c-doxygen-comments to add accurate Chinese Doxygen comments to the embedded C changes."
